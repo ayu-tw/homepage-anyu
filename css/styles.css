@@ -1,0 +1,27 @@
+body {
+  margin: 130px 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Rye", cursive;
+  font-size: 90px;
+  text-transform: lowercase;
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 35px;
+  text-align: center;
+  line-height: 80px;
+}
+
+#brief-description {
+  margin-top: 30px;
+}
+
+#sentence-underlined {
+  text-transform: uppercase;
+  font-weight: 600;
+}
