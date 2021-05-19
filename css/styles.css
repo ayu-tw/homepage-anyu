@@ -5,14 +5,14 @@ body {
 h1 {
   text-align: center;
   font-family: "Rye", cursive;
-  font-size: 90px;
+  font-size: 80px;
   text-transform: lowercase;
   text-decoration: underline;
 }
 
 p {
   font-family: "Fredericka the Great", cursive;
-  font-size: 35px;
+  font-size: 30px;
   text-align: center;
   line-height: 80px;
 }
@@ -24,4 +24,27 @@ p {
 #sentence-underlined {
   text-transform: uppercase;
   font-weight: 600;
+}
+
+li {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 30px;
+  margin: 50px 0;
+  list-style-type: none;
+}
+
+.border-end {
+  border-color: #393e46 !important;
+  border-right-style: dashed !important;
+}
+
+h3,
+h4 {
+  font-family: "Fredericka the Great", cursive;
+  text-align: center;
+  margin: 50px 0;
+}
+
+img {
+  max-width: 400px;
 }
