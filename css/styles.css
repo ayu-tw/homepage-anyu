@@ -12,6 +12,7 @@ p {
   text-align: center;
   line-height: 80px;
 }
+
 @media {
   p {
     font-size: 20px;
@@ -60,4 +61,8 @@ a {
 
 button {
   margin-bottom: -10px !important;
+}
+
+#github {
+  font-size: 40px;
 }
