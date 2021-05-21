@@ -1,5 +1,4 @@
 body {
-  margin: 130px 0;
 }
 
 h1 {
@@ -33,12 +32,6 @@ li {
   list-style-type: none;
 }
 
-.border-end {
-  border-color: #393e46 !important;
-  border-right-style: dashed !important;
-}
-
-h3,
 h4 {
   font-family: "Fredericka the Great", cursive;
   text-align: center;
@@ -47,4 +40,11 @@ h4 {
 
 img {
   max-width: 400px;
+}
+
+#check-out {
+  font-style: italic;
+  font-family: "Fredericka the Great", cursive;
+  text-align: center;
+  margin: 50px 0;
 }
