@@ -5,7 +5,14 @@ h1 {
   text-align: center;
   font-family: "Rye", cursive;
   font-size: 80px;
-  text-transform: lowercase;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+h2 {
+  text-align: center;
+  font-family: "Rye", cursive;
+  font-size: 60px;
+  text-transform: uppercase;
   text-decoration: underline;
 }
 
@@ -32,6 +39,7 @@ li {
   list-style-type: none;
 }
 
+h3,
 h4 {
   font-family: "Fredericka the Great", cursive;
   text-align: center;
@@ -47,4 +55,8 @@ img {
   font-family: "Fredericka the Great", cursive;
   text-align: center;
   margin: 50px 0;
+}
+
+#skills {
+  max-width: 60px;
 }
